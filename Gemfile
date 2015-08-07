@@ -39,4 +39,6 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'tzinfo-data', platforms: [:mingw, :mswin]
 
 gem 'devise'
-gem 'coffee-script-source', '1.8.0'
+gem 'coffee-script-source'
+gem 'bootstrap-sass'
+gem 'sprockets'
