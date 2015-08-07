@@ -40,3 +40,8 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin]
 
 gem 'devise'
 gem 'coffee-script-source', '1.8.0'
+
+gem 'bootstrap3-rails'
+gem 'bootstrap-material-design'
+gem 'bootstrap-sass'
+gem 'sprockets'
