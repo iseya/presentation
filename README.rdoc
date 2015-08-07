@@ -18,6 +18,6 @@
 ■app/assets/stylesheets/custom.css.scssに以下を記載
 
 　@import "bootstrap-material-design";
+ @import "bootstrap";
 
-
-■
+ bootstrapを追記しないと使えないコンポーネントがあった
