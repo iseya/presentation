@@ -32,7 +32,6 @@
 
 html, body {
   font-family: 'Roboto', 'Helvetica', sans-serif;
-  background: #fafafa;
 }
 .demo-avatar {
   width: 48px;
@@ -195,9 +194,9 @@ _:-ms-input-placeholder, :root .demo-graph {
 }
 
 .material-icons{
-	color:#78909c;
+  color:#78909c;
 }
 
 .mdl-layout-title{
-	color:#78909c;
+  color:#78909c;
 }
